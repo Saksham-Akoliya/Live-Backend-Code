@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|c:\\users\\saksham.akoliya\\desktop\\backend\\____api____\\firstapplication\\firstapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|solutionrelative:firstapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|c:\\users\\saksham.akoliya\\desktop\\backend\\____api____\\firstapplication\\firstapplication\\migrations\\20250802113526_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|solutionrelative:firstapplication\\migrations\\20250802113526_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|c:\\users\\saksham.akoliya\\desktop\\backend\\____api____\\firstapplication\\firstapplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|solutionrelative:firstapplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|c:\\users\\saksham.akoliya\\desktop\\backend\\____api____\\firstapplication\\firstapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|solutionrelative:firstapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|c:\\users\\saksham.akoliya\\desktop\\backend\\____api____\\firstapplication\\firstapplication\\controllers\\studentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|solutionrelative:firstapplication\\controllers\\studentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|c:\\users\\saksham.akoliya\\desktop\\backend\\____api____\\firstapplication\\firstapplication\\repositories\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|solutionrelative:firstapplication\\repositories\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|c:\\users\\saksham.akoliya\\desktop\\backend\\____api____\\firstapplication\\firstapplication\\repositories\\interface\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|solutionrelative:firstapplication\\repositories\\interface\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|c:\\users\\saksham.akoliya\\desktop\\backend\\____api____\\firstapplication\\firstapplication\\models\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CD5103-1CC8-4230-82D9-077265FD29FC}|FirstApplication\\FirstApplication.csproj|solutionrelative:firstapplication\\models\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250802113526_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\Migrations\\20250802113526_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FirstApplication\\Migrations\\20250802113526_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\Migrations\\20250802113526_InitialCreate.cs",
+              "RelativeToolTip": "FirstApplication\\Migrations\\20250802113526_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T11:35:26.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\Controllers\\StudentDetailController.cs",
+              "RelativeDocumentMoniker": "FirstApplication\\Controllers\\StudentDetailController.cs",
+              "ToolTip": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\Controllers\\StudentDetailController.cs",
+              "RelativeToolTip": "FirstApplication\\Controllers\\StudentDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:26:38.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\repositories\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "FirstApplication\\repositories\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\repositories\\Services\\StudentService.cs",
+              "RelativeToolTip": "FirstApplication\\repositories\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:23:40.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\repositories\\Interface\\IStudent.cs",
+              "RelativeDocumentMoniker": "FirstApplication\\repositories\\Interface\\IStudent.cs",
+              "ToolTip": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\repositories\\Interface\\IStudent.cs",
+              "RelativeToolTip": "FirstApplication\\repositories\\Interface\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:23:11.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\appsettings.json*",
+              "RelativeToolTip": "FirstApplication\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T07:20:56.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\Program.cs",
+              "RelativeDocumentMoniker": "FirstApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\Program.cs",
+              "RelativeToolTip": "FirstApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:18:51.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FirstApplication\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FirstApplication\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:17:11.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\Models\\StudentDetail.cs",
+              "RelativeDocumentMoniker": "FirstApplication\\Models\\StudentDetail.cs",
+              "ToolTip": "C:\\Users\\saksham.akoliya\\Desktop\\BackEnd\\____API____\\FirstApplication\\FirstApplication\\Models\\StudentDetail.cs",
+              "RelativeToolTip": "FirstApplication\\Models\\StudentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:15:42.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
